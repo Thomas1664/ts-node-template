@@ -16,5 +16,6 @@ This template repo contains basic debug launch configuration for VS Code using `
 ```npm i -g typescript ts-node```
 3. Install ```typescript``` and ```ts-node``` as local dev-dependencies:
 ```npm i -D typescript ts-node```
+4. Launch the scipt via ```ts-node index.ts```
 
 Feel free to remove this ```README.md``` file after installation!
