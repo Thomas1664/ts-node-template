@@ -3,6 +3,9 @@
 This is boilerplate code for creating Typescript projects in a Node environment.
 After following  the instructions you will have the basic functionality to run a Typescript project with `ts-node` included to your project folder.
 
+> [!WARNING]
+> This repository is archived. I recommend using bun instead.
+
 # Description
 
 This template repo contains basic debug launch configuration for VS Code using `index.ts` as entry point. If you don't use VS Code as IDE, remove the folder `.vscode`. The file `tsconfig.json` includes basic configuration for the Typescript compiler used by `ts-node`.
